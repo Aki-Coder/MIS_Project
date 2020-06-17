@@ -1,0 +1,16 @@
+package com.example.demo.controller;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import model.Profesor;
+
+public interface ProfesorController extends JpaRepository<Profesor, Integer> {
+	
+	//prikazi predmete koje predajem
+	//izaberi mi predmet
+	//izberi studente sa predmeta
+	//i za studenta za taj predmet unesi ocenu
+	
+	
+	
+}

@@ -1,0 +1,7 @@
+package com.example.demo.repository;
+
+import model.Predmet;
+
+public class PredmetRepository extends JpaRepository<Predmet,Integer> {
+
+}

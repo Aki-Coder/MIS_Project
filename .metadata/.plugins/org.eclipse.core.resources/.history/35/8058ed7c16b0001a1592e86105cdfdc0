@@ -1,0 +1,13 @@
+package com.example.demo.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import model.Student;
+
+public interface StudentRepository extends JpaRepository<Student, Integer> {
+	
+	@Query("select s from Student s inner join s.predmets p where p.naziv like :naziv")
+	
+	
+
+}
