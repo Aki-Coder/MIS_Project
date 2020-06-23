@@ -1,8 +1,33 @@
 package com.example.demo.controller;
 
-import org.springframework.stereotype.Controller;
+import java.util.List;
 
-@Controller
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.example.demo.services.ProfesorService;
+
+import model.Student;
+
+@RestController
 public class ProfesorController {
-
+	
+	@Autowired
+	ProfesorService ps;
+	
+	@RequestMapping(path="/findPredmets{idProfesor}", produces="application/json")
+	public ResponseEntity<List<com.example.demo.entities.Predmet>> findSubject(@RequestParam("idProfesor") Integer profesor){
+		return ps.getSubjectForProf(profesor);
+	}
+	
+	@RequestMapping(path="/findStudents", produces="application/json", method= RequestMethod.GET)
+	public ResponseEntity<List<Student>> findStudents(@RequestParam("idProfesor") Integer idProfesor,
+													  @RequestParam("naziv") String naziv){
+		return ps.getStudentsForProfesor(idProfesor, naziv);
+	}
+	
 }

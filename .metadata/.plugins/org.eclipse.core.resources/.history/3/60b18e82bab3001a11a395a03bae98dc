@@ -1,0 +1,49 @@
+package com.example.demo.services;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.repository.PredmetRepository;
+import com.example.demo.repository.StudentRepository;
+
+import model.Student;
+
+@Service
+public class ProfesorService {
+	
+	@Autowired
+	PredmetRepository pr;
+	
+	@Autowired
+	StudentRepository sr;
+	
+	public ResponseEntity<List<com.example.demo.entities.Predmet>> getSubjectForProf(com.example.demo.entities.Profesor p){
+		
+		model.Profesor prof = new model.Profesor();
+		prof.setIdProfesor(p.idProfesor);
+		prof.setIme(p.ime);
+		prof.setPrezime(p.prezime);
+		prof.setZvanje(p.zvanje);
+		
+		List<com.example.demo.entities.Predmet> lista = pr.findByProfesor(prof).stream()
+				.map(ProfesorService::parseToJson).collect(Collectors.toList());
+		
+		return ResponseEntity.ok(lista);
+	}
+	
+	public ResponseEntity<List<Student>> getStudentsForProfesor(Integer idProfesor, String naziv){
+		
+		List<Student> lista  = sr.getStudents(idProfesor, naziv);
+		
+		return ResponseEntity.ok(lista);
+	}
+	
+	public static com.example.demo.entities.Predmet parseToJson(model.Predmet p){
+		return new com.example.demo.entities.Predmet(p.getIdPredmet(),p.getEspb(), p.getNaziv(), p.getSemestar());
+	}
+
+}

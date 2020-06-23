@@ -1,0 +1,48 @@
+package com.example.demo.entities;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class Predmet {
+	
+	@JsonProperty
+	public int idPredmet;
+	@JsonProperty
+	public int espb;
+	@JsonProperty
+	public String naziv;
+	@JsonProperty
+	public int semestar;
+	public Predmet(int idPredmet, int espb, String naziv, int semestar) {
+		super();
+		this.idPredmet = idPredmet;
+		this.espb = espb;
+		this.naziv = naziv;
+		this.semestar = semestar;
+	}
+	public int getIdPredmet() {
+		return idPredmet;
+	}
+	public void setIdPredmet(int idPredmet) {
+		this.idPredmet = idPredmet;
+	}
+	public int getEspb() {
+		return espb;
+	}
+	public void setEspb(int espb) {
+		this.espb = espb;
+	}
+	public String getNaziv() {
+		return naziv;
+	}
+	public void setNaziv(String naziv) {
+		this.naziv = naziv;
+	}
+	public int getSemestar() {
+		return semestar;
+	}
+	public void setSemestar(int semestar) {
+		this.semestar = semestar;
+	} 
+	
+	
+}

@@ -2,6 +2,9 @@ package model;
 
 import java.io.Serializable;
 import javax.persistence.*;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.Date;
 import java.util.List;
 
@@ -17,19 +20,24 @@ public class Ispit implements Serializable {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@JsonProperty
 	private int idIspit;
 
 	@Temporal(TemporalType.TIMESTAMP)
+	@JsonProperty
 	private Date datum;
-
+	
+	@JsonProperty
 	private int ocena;
 
 	//bi-directional many-to-one association to Predmet
 	@ManyToOne
+	@JsonProperty
 	private Predmet predmet;
 
 	//bi-directional many-to-many association to Student
 	@ManyToMany(mappedBy="ispits")
+	@JsonProperty
 	private List<Student> students;
 
 	public Ispit() {

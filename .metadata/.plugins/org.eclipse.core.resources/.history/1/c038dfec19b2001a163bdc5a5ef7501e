@@ -1,0 +1,25 @@
+package com.example.demo.services;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
+
+import com.example.demo.repository.ProfesorRepository;
+
+import model.Predmet;
+import model.Profesor;
+
+public class ProfesorService {
+	
+	@Autowired
+	ProfesorRepository pr;
+	
+	public ReponseEntity<List<Predmet>> getSubjectForProf(Profesor p){
+		
+		List<Predmet> lista = pr.findByProfesor(p);
+		
+		return ResponseEntity<T>.ok(lista);
+	}
+
+}

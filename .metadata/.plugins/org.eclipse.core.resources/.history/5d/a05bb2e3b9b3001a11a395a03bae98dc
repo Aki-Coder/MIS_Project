@@ -1,0 +1,15 @@
+package com.example.demo.entities;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class Predmet {
+	
+	@JsonProperty
+	public int idPredmet;
+	@JsonProperty
+	public int espb;
+	@JsonProperty
+	public String naziv;
+	@JsonProperty
+	public int semestar; 
+}

@@ -1,0 +1,28 @@
+package com.example.demo.repository;
+
+
+
+import java.util.List;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import model.Predmet;
+import model.Profesor;
+
+
+public interface PredmetRepository extends JpaRepository<Predmet, Integer> {
+	
+	//prikazi predmete koje predajem
+	public List<Predmet> findByProfesor(Profesor p);
+	//izaberi mi predmet
+	
+//	@Query("select p from Predmet p where p.idPredmet like :idPredmet")
+//	public Predmet findByPredmet(@Param("idPredmet") Integer idPredmet);
+		
+	
+	
+	
+	
+	
+	
+}

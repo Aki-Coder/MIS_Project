@@ -2,6 +2,9 @@ package model;
 
 import java.io.Serializable;
 import javax.persistence.*;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import java.util.List;
 
 
@@ -16,14 +19,19 @@ public class Student implements Serializable {
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	@JsonProperty
 	private int idStudent;
-
+	
+	@JsonProperty
 	private String brojIndexa;
-
+	
+	@JsonProperty
 	private String ime;
-
+	
+	@JsonProperty
 	private String jmbg;
-
+	
+	@JsonProperty
 	private String prezime;
 
 	//bi-directional many-to-many association to Ispit
@@ -37,6 +45,7 @@ public class Student implements Serializable {
 			@JoinColumn(name="Ispit_idIspit")
 			}
 		)
+	@JsonProperty
 	private List<Ispit> ispits;
 
 	//bi-directional many-to-many association to Predmet
@@ -50,6 +59,7 @@ public class Student implements Serializable {
 			@JoinColumn(name="Predmet_idPredmet")
 			}
 		)
+	@JsonProperty
 	private List<Predmet> predmets;
 
 	public Student() {

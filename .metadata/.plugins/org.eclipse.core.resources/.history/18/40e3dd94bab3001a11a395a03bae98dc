@@ -1,0 +1,18 @@
+package com.example.demo.entities;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class Profesor {
+	
+	public int idProfesor;
+	
+	@JsonProperty
+	public String ime;
+	
+	@JsonProperty
+	public String prezime;
+	
+	@JsonProperty
+	public String zvanje;
+
+}

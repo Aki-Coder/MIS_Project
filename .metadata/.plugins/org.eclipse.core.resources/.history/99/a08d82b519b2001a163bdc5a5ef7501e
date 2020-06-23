@@ -1,0 +1,14 @@
+package com.example.demo.services;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.example.demo.repository.ProfesorRepository;
+
+public class ProfesorService {
+	
+	@Autowired
+	ProfesorRepository pr;
+	
+	
+
+}
