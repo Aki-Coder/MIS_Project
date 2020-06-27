@@ -8,37 +8,48 @@ import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.example.demo.entities.PredmetJSON;
+import com.example.demo.entities.StudentJSON;
 import com.example.demo.repository.PredmetRepository;
 import com.example.demo.repository.StudentRepository;
 
+import model.Predmet;
 import model.Student;
 
 @Service
 public class ProfesorService {
 	
-	@Autowired
-	PredmetRepository pr;
+	private PredmetRepository pr;
+
+	private StudentRepository sr;
 	
-	@Autowired
-	StudentRepository sr;
+	public ProfesorService(@Autowired PredmetRepository pr, @Autowired StudentRepository sr) {
+		this.pr = pr;
+		this.sr = sr;
+	}
 	
-	public ResponseEntity<List<com.example.demo.entities.Predmet>> getSubjectForProf(Integer idProfesor){
+	public ResponseEntity<List<PredmetJSON>> getSubjectForProf(Integer idProfesor){
 		
-		List<com.example.demo.entities.Predmet> lista = pr.findByProfesor(idProfesor).stream()
+		List<PredmetJSON> lista = pr.findByProfesors(idProfesor).stream()
 				.map(ProfesorService::parseToJson).collect(Collectors.toList());
 		
-		return new ResponseEntity<List<com.example.demo.entities.Predmet>>(lista, HttpStatus.OK);
+		return new ResponseEntity<List<PredmetJSON>>(lista, HttpStatus.OK);
 	}
 	
-	public ResponseEntity<List<Student>> getStudentsForProfesor(Integer idProfesor, String naziv){
+	public ResponseEntity<List<StudentJSON>> getStudentsForProfesor(Integer idProfesor, String naziv){
 		
-		List<Student> lista  = sr.getStudents(idProfesor, naziv);
+		List<StudentJSON> lista  = sr.getStudents(idProfesor, naziv).stream()
+				.map(ProfesorService::parseToJsonS).collect(Collectors.toList());
 		
-		return ResponseEntity.ok(lista);
+		return new ResponseEntity<List<StudentJSON>>(lista, HttpStatus.OK);
 	}
 	
-	public static com.example.demo.entities.Predmet parseToJson(model.Predmet p){
-		return new com.example.demo.entities.Predmet(p.getIdPredmet(),p.getEspb(), p.getNaziv(), p.getSemestar());
+	private static PredmetJSON parseToJson(Predmet p){
+		return new PredmetJSON(p.getIdPredmet(),p.getEspb(), p.getNaziv(), p.getSemestar());
+	}
+	
+	private static StudentJSON parseToJsonS(Student s) {
+		return new StudentJSON(s.getIdStudent(), s.getBrojIndexa(), s.getIme(), s.getJmbg(), s.getPrezime());
 	}
 
 }

@@ -1,0 +1,28 @@
+package com.example.demo.entities;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
+public class StudentJSON {
+	@JsonProperty
+	private int idStudent;
+	@JsonProperty
+	private String brojIndexa;
+	@JsonProperty
+	private String ime;
+	@JsonProperty
+	private String jmbg;
+	@JsonProperty
+	private String prezime;
+	public StudentJSON(@JsonProperty int idStudent, @JsonProperty String brojIndexa,@JsonProperty String ime,@JsonProperty String jmbg,@JsonProperty String prezime) {
+		super();
+		this.idStudent = idStudent;
+		this.brojIndexa = brojIndexa;
+		this.ime = ime;
+		this.jmbg = jmbg;
+		this.prezime = prezime;
+	}
+	
+	
+	
+	
+}

@@ -1,0 +1,39 @@
+package com.example.demo.services;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.entities.PredmetJSON;
+import com.example.demo.repository.PredmetRepository;
+import com.example.demo.repository.StudentRepository;
+
+import model.Predmet;
+
+@Service
+public class StudentService {
+	
+	
+	//private StudentRepository sr;
+	private PredmetRepository pr;
+	
+	public StudentService(@Autowired StudentRepository sr, @Autowired PredmetRepository pr) {
+		this.sr = sr;
+		this.pr = pr;
+	}
+	
+	public ResponseEntity<List<PredmetJSON>> getSubjetForStudent(Integer idStudent){
+		List<PredmetJSON> lista = pr.findByStudents(idStudent).stream()
+				.map(StudentService::parseToJson).collect(Collectors.toList());
+		return new ResponseEntity<List<PredmetJSON>>(lista,HttpStatus.OK);
+	}
+	
+	private static PredmetJSON parseToJson(Predmet p) {
+		return new PredmetJSON(p.getIdPredmet(),p.getEspb(), p.getNaziv(), p.getSemestar());
+	}
+
+}

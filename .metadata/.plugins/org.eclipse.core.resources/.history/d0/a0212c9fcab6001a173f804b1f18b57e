@@ -1,0 +1,55 @@
+package com.example.demo.services;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.entities.PredmetJSON;
+import com.example.demo.entities.StudentJSON;
+import com.example.demo.repository.PredmetRepository;
+import com.example.demo.repository.StudentRepository;
+
+import model.Predmet;
+import model.Student;
+
+@Service
+public class ProfesorService {
+	
+	private PredmetRepository pr;
+
+	private StudentRepository sr;
+	
+	public ProfesorService(@Autowired PredmetRepository pr, @Autowired StudentRepository sr) {
+		this.pr = pr;
+		this.sr = sr;
+	}
+	
+	public ResponseEntity<List<PredmetJSON>> getSubjectForProf(Integer idProfesor){
+		
+		List<PredmetJSON> lista = pr.findByProfesors(idProfesor).stream()
+				.map(ProfesorService::parseToJson).collect(Collectors.toList());
+		
+		return new ResponseEntity<List<PredmetJSON>>(lista, HttpStatus.OK);
+	}
+	
+	public ResponseEntity<List<StudentJSON>> getStudentsForProfesor(Integer idProfesor, String naziv){
+		
+		List<Student> lista  = sr.getStudents(idProfesor, naziv).stream()
+				.map(ProfesorService::parseToJsonS).collect(Collectors.toList());
+		
+		return ResponseEntity<List<StudentJSON>>(lista,HttpStatus.OK);
+	}
+	
+	private static PredmetJSON parseToJson(Predmet p){
+		return new PredmetJSON(p.getIdPredmet(),p.getEspb(), p.getNaziv(), p.getSemestar());
+	}
+	
+	private static StudentJSON parseToJsonS(Student s) {
+		return new StudentJSON(s.getIdStudent(), s.getBrojIndexa(), s.getIme(), s.getJmbg(), s.getPrezime());
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.example.demo.entities;
+
+public class StudentJSON {
+
+	int idStudent;
+	String brojIndexa;
+	String ime;
+	String jmbg;
+	String prezime;
+	
+	
+}

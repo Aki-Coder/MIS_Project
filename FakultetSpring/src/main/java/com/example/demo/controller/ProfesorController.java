@@ -9,6 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.example.demo.entities.PredmetJSON;
+import com.example.demo.entities.StudentJSON;
 import com.example.demo.services.ProfesorService;
 
 import model.Student;
@@ -16,17 +18,20 @@ import model.Student;
 @RestController
 public class ProfesorController {
 	
-	@Autowired
-	ProfesorService ps;
+	private ProfesorService ps;
 	
-	@RequestMapping(path="/findPredmets{idProfesor}", produces="application/json")
-	public ResponseEntity<List<com.example.demo.entities.Predmet>> findSubject(@RequestParam("idProfesor") Integer profesor){
-		return ps.getSubjectForProf(profesor);
+	public ProfesorController(@Autowired ProfesorService ps) {
+		this.ps = ps;
 	}
 	
-	@RequestMapping(path="/findStudents", produces="application/json", method= RequestMethod.GET)
-	public ResponseEntity<List<Student>> findStudents(@RequestParam("idProfesor") Integer idProfesor,
-													  @RequestParam("naziv") String naziv){
+	@RequestMapping(path="/findPredmets", produces="application/json")
+	public ResponseEntity<List<PredmetJSON>> findSubject(@RequestParam("idProfesor") Integer idProfesor){
+		return ps.getSubjectForProf(idProfesor);
+	}
+	
+	@RequestMapping(path="/findStudents", produces="application/json")
+	public ResponseEntity<List<StudentJSON>> findStudents(@RequestParam(value="idProfesor") Integer idProfesor,
+													  	  @RequestParam(value="naziv") String naziv){
 		return ps.getStudentsForProfesor(idProfesor, naziv);
 	}
 	

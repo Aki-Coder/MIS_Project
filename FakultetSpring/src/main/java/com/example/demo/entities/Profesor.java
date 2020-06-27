@@ -16,7 +16,7 @@ public class Profesor {
 	@JsonProperty
 	public String zvanje;
 
-	public Profesor(int idProfesor, String ime, String prezime, String zvanje) {
+	public Profesor(@JsonProperty int idProfesor, @JsonProperty String ime, @JsonProperty String prezime, @JsonProperty String zvanje) {
 		super();
 		this.idProfesor = idProfesor;
 		this.ime = ime;

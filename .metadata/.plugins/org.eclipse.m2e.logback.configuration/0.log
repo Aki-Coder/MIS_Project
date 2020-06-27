@@ -3444,3 +3444,523 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-06-23 19:38:32,492 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-06-23 19:38:32,498 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-06-23 19:38:32,499 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 22:54:40,978 [Worker-20: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-23 22:54:44,628 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 22:54:44,642 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 22:54:44,678 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 22:54:44,684 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 22:54:44,685 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 22:54:50,112 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-23 22:56:33,697 [Worker-9: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 22:58:18,685 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 22:58:18,692 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 22:58:18,696 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 22:58:18,699 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 22:58:18,700 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:01:17,184 [Worker-13: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:01:32,741 [Worker-2: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:01:55,418 [Worker-18: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:05:38,518 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:05:38,523 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:05:38,535 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:05:38,556 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-23 23:05:40,592 [Worker-28: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:05:41,636 [Worker-23: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:05:56,734 [Worker-23: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:08:00,817 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:08:00,826 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:08:00,833 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:08:00,836 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-23 23:08:11,126 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:08:11,130 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:08:11,134 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-23 23:08:11,137 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-23 23:09:31,410 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:09:31,412 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:09:31,418 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 23:09:31,423 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:09:31,424 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:09:51,142 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:09:51,143 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:09:51,148 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 23:09:51,153 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:09:51,154 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:10:22,110 [Worker-30: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:18:59,513 [Worker-23: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:22:25,177 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:22:25,178 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:22:25,182 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 23:22:25,187 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:22:25,187 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:22:35,600 [Worker-32: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:24:24,982 [Worker-39: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:31:10,085 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:31:10,086 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:31:10,091 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 23:31:10,096 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:31:10,096 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:31:15,676 [Worker-44: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:31:56,990 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:31:56,992 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-23 23:31:56,996 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-23 23:31:57,000 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-23 23:31:57,001 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-23 23:32:13,218 [Worker-45: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:36:30,066 [Worker-50: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:36:31,545 [Worker-47: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:38:39,539 [Worker-52: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:41:12,117 [Worker-54: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:42:14,878 [Worker-54: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:53:29,575 [Worker-56: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-23 23:56:35,988 [Worker-60: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 00:00:31,468 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:00:31,470 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 00:00:31,474 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 00:00:31,479 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:00:31,480 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 00:00:53,628 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:00:53,629 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 00:00:53,634 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 00:00:53,638 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:00:53,639 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 00:01:11,571 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:01:11,572 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 00:01:11,576 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 00:01:11,580 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:01:11,581 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 00:01:57,627 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:01:57,628 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 00:01:57,632 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 00:01:57,636 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 00:01:57,637 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 00:10:40,743 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-24 00:10:47,739 [Worker-16: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 00:10:51,646 [Worker-1: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:18:01,619 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-24 14:18:14,339 [Worker-4: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 14:18:15,687 [Worker-17: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:21:35,797 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:21:35,807 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:21:35,860 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:21:35,868 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:21:35,868 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:21:45,413 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:45,417 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:21:45,429 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:45,431 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-24 14:21:52,019 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:52,029 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:21:52,034 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:52,036 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-24 14:21:56,153 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:56,156 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:21:56,160 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:21:56,162 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-24 14:22:09,225 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:22:09,230 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:22:09,243 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:22:09,248 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:22:09,249 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:22:29,139 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:22:29,140 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:22:29,146 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:22:29,150 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:22:29,150 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:23:11,496 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:11,497 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:23:11,502 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:23:11,506 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:11,506 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:23:22,753 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:22,754 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:23:22,757 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:23:22,762 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:22,762 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:23:28,232 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:28,233 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:23:28,237 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:23:28,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:23:28,241 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:24:59,291 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:24:59,292 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:24:59,295 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:24:59,299 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:24:59,299 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:25:15,795 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:25:15,796 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:25:15,799 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:25:15,805 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:25:15,805 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:26:27,667 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:26:27,668 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:26:27,685 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:26:27,689 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:26:27,689 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:27:11,447 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:11,448 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:27:11,496 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:27:11,501 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:11,501 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:27:13,127 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:13,128 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:27:13,133 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:27:13,135 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:13,135 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:27:42,040 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:42,040 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:27:42,044 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:27:42,050 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:42,050 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:27:50,825 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:50,826 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:27:50,831 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:27:50,837 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:27:50,837 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:28:00,421 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:00,423 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:28:00,428 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:28:00,432 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:00,432 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:28:19,228 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:19,229 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:28:19,233 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:28:19,236 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:19,236 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:28:27,413 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:27,414 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:28:27,418 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:28:27,422 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:28:27,422 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:29:09,061 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:29:09,062 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:29:09,069 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:29:09,073 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:29:09,073 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:29:27,822 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:29:27,823 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:29:27,828 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:29:27,832 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:29:27,832 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:30:01,868 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:30:01,868 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:30:01,873 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:30:01,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:30:01,876 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:30:14,798 [Worker-2: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:32:42,980 [Worker-27: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:33:30,700 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:33:30,701 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:33:30,706 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:33:30,710 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:33:30,710 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:34:29,376 [Worker-21: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:36:01,813 [Worker-6: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 14:37:11,080 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:37:11,082 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:37:11,086 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:37:11,090 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:37:11,091 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:37:53,397 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:37:53,397 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:37:53,401 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:37:53,403 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:37:53,404 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:39:32,628 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:39:32,629 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:39:32,633 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:39:32,635 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:39:32,635 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:39:51,024 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-06-24 14:40:00,384 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT @ D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\pom.xml.
+2020-06-24 14:40:03,822 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.example:FakultetSpring:0.0.1-SNAPSHOT @ D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\pom.xml.
+2020-06-24 14:40:07,664 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 14:40:11,263 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FakultetJPA/src
+2020-06-24 14:40:11,264 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /FakultetJPA/src overlaps with sources folder /FakultetJPA/src
+2020-06-24 14:40:11,265 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /FakultetJPA/src/test/java because it overlaps with /FakultetJPA/src
+2020-06-24 14:40:12,736 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FakultetSpring/src/main/java
+2020-06-24 14:40:12,737 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FakultetSpring/src/main/resources
+2020-06-24 14:40:12,737 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FakultetSpring/src/main/resources
+2020-06-24 14:40:12,738 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FakultetSpring/src/test/java
+2020-06-24 14:40:13,418 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 22 sec
+2020-06-24 14:40:14,685 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:40:14,803 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:40:14,820 [Worker-186: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-06-24 14:40:14,956 [Worker-186: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetJPA\src\test\resources
+2020-06-24 14:40:35,774 [Worker-231: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 14:40:35,844 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:40:35,845 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 14:40:35,877 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 14:40:35,881 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 14:40:35,881 [Worker-231: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 14:41:15,839 [Worker-96: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 17:50:00,970 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-24 17:50:19,743 [Worker-11: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 17:50:20,932 [Worker-1: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 18:23:05,330 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-24 18:24:40,391 [Worker-3: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 18:24:44,020 [Worker-7: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 18:28:07,512 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 18:28:07,522 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 18:28:07,560 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 18:28:07,567 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 18:28:07,567 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:49:18,427 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-24 22:49:24,877 [Worker-11: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-24 22:49:29,465 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:49:29,474 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:49:29,516 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:49:29,522 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:49:29,522 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:50:31,303 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:50:31,310 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:50:31,316 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:50:31,321 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:50:31,321 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:51:49,239 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:51:49,240 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:51:49,244 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:51:49,249 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:51:49,249 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:52:01,985 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:01,986 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:52:01,990 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:52:01,994 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:01,995 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:52:31,557 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:31,559 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:52:31,564 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:52:31,568 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:31,568 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:52:57,666 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:57,668 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:52:57,673 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:52:57,676 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:52:57,677 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 22:55:31,555 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:55:31,557 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 22:55:31,562 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 22:55:31,567 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 22:55:31,567 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:10:48,828 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:10:48,830 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:10:48,835 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:10:48,843 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:10:48,843 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:11:08,698 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:11:08,700 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:11:08,704 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:11:08,708 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:11:08,708 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:12:29,887 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:12:29,888 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:12:29,892 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:12:29,897 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:12:29,897 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:12:43,789 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:12:43,791 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:12:43,796 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:12:43,801 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:12:43,801 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:13:16,634 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:16,635 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:13:16,639 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:13:16,644 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:16,644 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:13:20,750 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:20,752 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:13:20,757 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:13:20,760 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:20,761 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:13:22,838 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:22,840 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:13:22,844 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:13:22,848 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:22,848 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:13:37,034 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:37,035 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:13:37,038 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:13:37,042 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:13:37,042 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:14:46,675 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:14:46,676 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:14:46,681 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:14:46,689 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:14:46,689 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:14:55,286 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:14:55,287 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:14:55,291 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:14:55,295 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:14:55,295 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:16:42,830 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:16:42,831 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:16:42,836 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:16:42,841 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:16:42,841 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:17:12,575 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:17:12,577 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:17:12,583 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:17:12,587 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:17:12,588 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:18:06,579 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:06,580 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:18:06,585 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:18:06,587 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:06,588 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:18:27,679 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:27,680 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:18:27,683 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:18:27,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:27,685 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:18:30,535 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:30,536 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:18:30,540 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:18:30,545 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:18:30,545 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:19:03,646 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:19:03,647 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:19:03,651 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:19:03,655 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:19:03,655 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:20:18,877 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:20:18,878 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:20:18,882 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:20:18,885 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:20:18,886 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:29:28,593 [Worker-33: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-24 23:31:23,970 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:31:23,973 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:31:23,977 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:31:23,980 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:31:23,980 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-24 23:54:19,130 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:54:19,139 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-24 23:54:19,157 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-24 23:54:19,161 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-24 23:54:19,162 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:54:05,753 [Worker-0: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-25 11:54:10,752 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:54:10,763 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:54:10,808 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:54:10,816 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:54:10,817 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:54:48,016 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:54:48,021 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:54:48,025 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:54:48,028 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:54:48,029 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:55:48,592 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:55:48,594 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:55:48,598 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:55:48,601 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:55:48,601 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:56:15,872 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:56:15,873 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:56:15,876 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:56:15,880 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:56:15,880 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:57:20,896 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:57:20,897 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:57:20,901 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:57:20,906 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:57:20,906 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:57:56,658 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:57:56,659 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:57:56,664 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:57:56,668 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:57:56,669 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:59:12,348 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:59:12,350 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:59:12,354 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:59:12,358 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:59:12,358 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 11:59:56,783 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:59:56,784 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 11:59:56,789 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 11:59:56,799 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 11:59:56,800 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:00:11,197 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:11,198 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:00:11,203 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:00:11,209 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:11,209 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:00:34,524 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:34,526 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:00:34,531 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:00:34,536 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:34,536 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:00:48,797 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:48,798 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:00:48,802 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:00:48,808 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:00:48,808 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:01:17,643 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:17,645 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:01:17,650 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:01:17,654 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:17,654 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:01:55,826 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:55,827 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:01:55,831 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:01:55,835 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:55,835 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:01:57,959 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:57,961 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:01:57,964 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:01:57,968 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:01:57,969 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:04:30,033 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:04:30,034 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:04:30,039 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:04:30,045 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:04:30,045 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:05:04,637 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:05:04,638 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-25 12:05:04,642 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-25 12:05:04,649 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-25 12:05:04,650 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-25 12:07:31,797 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-25 12:07:43,361 [Worker-32: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-25 22:44:03,413 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-06-25 22:44:20,528 [Worker-23: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-25 22:44:21,972 [Worker-22: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-26 09:51:54,591 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-26 09:52:18,712 [Worker-3: Check for devtools] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-26 09:52:25,924 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 09:52:25,938 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 09:52:25,993 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 09:52:26,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 09:52:26,000 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-26 09:52:29,482 [Worker-29: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-26 10:01:07,614 [Worker-34: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-26 10:09:47,158 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:09:47,168 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 10:09:47,176 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 10:09:47,182 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:09:47,183 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-26 10:10:13,275 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:10:13,277 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 10:10:13,282 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 10:10:13,288 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:10:13,288 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-26 10:11:05,182 [Worker-39: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-26 10:26:10,068 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:26:10,069 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-26 10:26:10,074 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-26 10:26:10,079 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-26 10:26:10,079 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-26 10:27:14,071 [Worker-38: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-27 12:00:00,654 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier  to /FakultetJPA/target/classes
+2020-06-27 12:00:02,635 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-06-27 12:00:02,892 [Worker-23: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2020-06-27 12:00:05,849 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 12:00:05,860 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-27 12:00:05,902 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-27 12:00:05,908 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 12:00:05,909 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-27 12:00:18,992 [Worker-3: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
+2020-06-27 12:04:16,136 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 12:04:16,150 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-06-27 12:04:16,185 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-06-27 12:04:16,195 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-06-27 12:04:16,195 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\LETNJI SEMESTAR 2020\MIS\PROJEKAT\MisProj\FakultetSpring\src\test\resources
+2020-06-27 12:05:48,667 [Worker-25: Launching FakultetSpring - FakultetSpringApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/FakultetJPA: FakultetJPA:FakultetJPA:0.0.1-SNAPSHOT with classifier null to /FakultetJPA/target/classes
